@@ -5,6 +5,8 @@ project follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-07-23
+
 ### Fixed
 - Update **every** `Package.resolved` Xcode reads for the project, not just the
   one embedded in the `.xcodeproj`. Previously, projects built through a
